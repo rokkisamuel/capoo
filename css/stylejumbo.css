@@ -1,0 +1,55 @@
+.jumbotron {
+    background-image: url(bg.jpg);
+    background-size: cover; 
+    height: 800px; 
+    text-align: center;
+    background-color: darkgray;
+    margin-top: -90px;
+}
+
+.jumbotron .display-4 {
+    margin-top: 250px;
+}
+
+.jumbotron p {
+    font-size: 25px;
+}
+
+.jumbotron hr {
+    border-color: darkred;
+    width: 70px;
+    border-width: 4px;
+}
+
+.jumbotron .btn {
+    background-color: darkred;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+/*Slider awal*/
+
+.carousel-item  {
+    height: 600px;
+}
+
+.carousel-item .display-4{
+    margin-top: -400px;
+}
+
+.carousel-item hr {
+    border-color: darkred;
+    width: 70px;
+    border-width: 4px;
+}
+
+.carousel-item .btn {
+    background-color: darkred;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+

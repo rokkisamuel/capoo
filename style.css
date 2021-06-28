@@ -1,0 +1,39 @@
+.jumbotron {
+    background-image: url(images/home1.jpg);
+    background-size: cover;
+    height: 750px;
+    text-align: center;
+    margin-top: -120px;
+}
+
+.kotak_login{
+	width: 350px;
+	margin: 80px auto;
+    padding: 30px 20px;
+    margin-top: 200px;
+    margin-left: 357px;
+}
+
+label{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.tombol_login{
+	background: red;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
